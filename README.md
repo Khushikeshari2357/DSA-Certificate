@@ -40,6 +40,6 @@ I have successfully completed the *Basics of Data Structures and Algorithms* cou
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/khushi-keshari-675931357/
-- GitHub: [Your GitHub](#)  
+- GitHub: https://github.com/Khushikeshari2357
 
 ✨ Always eager to learn, build, and solve real-world problems. ✨
